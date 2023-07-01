@@ -1,3 +1,3 @@
-#Web app to display applications logs in a dashboard
+# Web app to display applications logs in a dashboard
 
-* This app uses winston logger
+* This app uses winston logger to query logs
